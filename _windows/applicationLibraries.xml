@@ -1368,6 +1368,14 @@
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/mini_portile2-2.0.0.rc2/lib" />
       </SOURCES>
     </library>
+    <library name="mini_portile2 (v2.1.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/mini_portile2-2.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/mini_portile2-2.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="mini_portile2-2.0.0 (v2.0.0, ruby-1.9.3-p551) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/mini_portile2-2.0.0/lib" />
@@ -1620,6 +1628,24 @@
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.7.2-x86-mingw32/suppressions" />
       </SOURCES>
     </library>
+    <library name="nokogiri (v1.6.8, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.8-x86-mingw32/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.8-x86-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.8-x86-mingw32/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.8-x86-mingw32/tasks" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.8-x86-mingw32/patches" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.8-x86-mingw32/suppressions" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.8-x86-mingw32/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.8-x86-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.8-x86-mingw32/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.8-x86-mingw32/tasks" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.8-x86-mingw32/patches" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.8-x86-mingw32/suppressions" />
+      </SOURCES>
+    </library>
     <library name="parallel-1.6.1 (v1.6.1, ruby-1.9.3-p551) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/parallel-1.6.1/lib" />
@@ -1666,6 +1692,14 @@
       <SOURCES>
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/phonelib-0.4.7/lib" />
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/phonelib-0.4.7/data" />
+      </SOURCES>
+    </library>
+    <library name="pkg-config (v1.1.7, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/pkg-config-1.1.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/pkg-config-1.1.7/lib" />
       </SOURCES>
     </library>
     <library name="polyglot (v0.3.5, ruby-1.9.3-p551) [gem]">
@@ -2482,10 +2516,12 @@
     </library>
     <library name="win32-api (v1.5.3, ruby-1.9.3-p551) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby19/win32-api/1.5.3" />
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-api-1.5.3-universal-mingw32/ext" />
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-api-1.5.3-universal-mingw32/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby19/win32-api/1.5.3" />
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-api-1.5.3-universal-mingw32/ext" />
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-api-1.5.3-universal-mingw32/lib" />
       </SOURCES>
