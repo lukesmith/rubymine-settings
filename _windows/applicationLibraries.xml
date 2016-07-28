@@ -2564,6 +2564,18 @@
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-api-1.5.3-universal-mingw32/lib" />
       </SOURCES>
     </library>
+    <library name="win32-api (v1.6.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-api-1.6.0-universal-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-api-1.6.0-universal-mingw32/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-api-1.6.0-universal-mingw32/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-api-1.6.0-universal-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-api-1.6.0-universal-mingw32/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-api-1.6.0-universal-mingw32/vendor" />
+      </SOURCES>
+    </library>
     <library name="win32-dir (v0.4.9, ruby-1.9.3-p551) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-dir-0.4.9/lib" />
@@ -2688,6 +2700,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/windows-pr-1.2.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="windows-pr (v1.2.5, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/windows-pr-1.2.5/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/windows-pr-1.2.5/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/windows-pr-1.2.5/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/windows-pr-1.2.5/vendor" />
       </SOURCES>
     </library>
     <library name="wkhtmltopdf-binary-0.9.9.3 (v0.9.9.3, ruby-1.9.3-p551) [gem]">
