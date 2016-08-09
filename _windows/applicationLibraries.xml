@@ -1946,6 +1946,18 @@
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rake-10.4.2/rakelib" />
       </SOURCES>
     </library>
+    <library name="rake (v11.1.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rake-11.1.2/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rake-11.1.2/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rake-11.1.2/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rake-11.1.2/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rake-11.1.2/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rake-11.1.2/rakelib" />
+      </SOURCES>
+    </library>
     <library name="rb-fsevent-0.9.6 (v0.9.6, ruby-1.9.3-p551) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rb-fsevent-0.9.6/bin" />
