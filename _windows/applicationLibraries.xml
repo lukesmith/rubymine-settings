@@ -1120,6 +1120,14 @@
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/iisconfig-0.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="inifile (v3.0.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/inifile-3.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/inifile-3.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="jasmine-2.3.0 (v2.3.0, ruby-1.9.3-p551) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/jasmine-2.3.0/bin" />
