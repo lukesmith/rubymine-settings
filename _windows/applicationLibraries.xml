@@ -1,10 +1,2772 @@
 <application>
   <component name="libraryTable">
+    <library name="abstract_type (v0.0.7, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/abstract_type-0.0.7/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/abstract_type-0.0.7/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/abstract_type-0.0.7/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/abstract_type-0.0.7/config" />
+      </SOURCES>
+    </library>
+    <library name="actionmailer (v4.1.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/actionmailer-4.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/actionmailer-4.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionpack (v4.1.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/actionpack-4.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/actionpack-4.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionview (v4.1.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/actionview-4.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/actionview-4.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionview (v4.2.5.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/actionview-4.2.5.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/actionview-4.2.5.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="activemodel (v3.2.19, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/activemodel-3.2.19/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/activemodel-3.2.19/lib" />
+      </SOURCES>
+    </library>
+    <library name="activemodel (v4.1.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/activemodel-4.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/activemodel-4.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="activemodel (v4.2.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/activemodel-4.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/activemodel-4.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="activerecord (v4.1.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/activerecord-4.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/activerecord-4.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport (v3.2.19, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/activesupport-3.2.19/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/activesupport-3.2.19/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport (v4.1.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/activesupport-4.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/activesupport-4.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport (v4.2.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/activesupport-4.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/activesupport-4.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport (v4.2.4, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/activesupport-4.2.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/activesupport-4.2.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport (v4.2.5, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/activesupport-4.2.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/activesupport-4.2.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport (v4.2.5.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/activesupport-4.2.5.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/activesupport-4.2.5.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="adamantium (v0.2.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/adamantium-0.2.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/adamantium-0.2.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/adamantium-0.2.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/adamantium-0.2.0/config" />
+      </SOURCES>
+    </library>
+    <library name="addressable (v2.3.8, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/addressable-2.3.8/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/addressable-2.3.8/data" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/addressable-2.3.8/tasks" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/addressable-2.3.8/website" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/addressable-2.3.8/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/addressable-2.3.8/data" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/addressable-2.3.8/tasks" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/addressable-2.3.8/website" />
+      </SOURCES>
+    </library>
+    <library name="addressable (v2.4.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/addressable-2.4.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/addressable-2.4.0/data" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/addressable-2.4.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/addressable-2.4.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/addressable-2.4.0/data" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/addressable-2.4.0/tasks" />
+      </SOURCES>
+    </library>
+    <library name="arel (v3.0.3, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/arel-3.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/arel-3.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="arel (v5.0.1.20140414130214, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/arel-5.0.1.20140414130214/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/arel-5.0.1.20140414130214/lib" />
+      </SOURCES>
+    </library>
+    <library name="arrayfields (v4.9.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/arrayfields-4.9.2/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/arrayfields-4.9.2/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/arrayfields-4.9.2/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/arrayfields-4.9.2/sample" />
+      </SOURCES>
+    </library>
+    <library name="ast (v2.1.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/ast-2.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/ast-2.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="bcrypt (v3.1.10, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bcrypt-3.1.10-x86-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bcrypt-3.1.10-x86-mingw32/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bcrypt-3.1.10-x86-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bcrypt-3.1.10-x86-mingw32/lib" />
+      </SOURCES>
+    </library>
+    <library name="blankslate (v2.1.2.4, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/blankslate-2.1.2.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/blankslate-2.1.2.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="bozo (v0.3.4, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bozo-0.3.4/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bozo-0.3.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bozo-0.3.4/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bozo-0.3.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="bozo (v0.4.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bozo-0.4.2/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bozo-0.4.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bozo-0.4.2/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bozo-0.4.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="bozo (v0.5.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bozo-0.5.0/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bozo-0.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bozo-0.5.0/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bozo-0.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="bozo-scripts (v0.1.8, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bozo-scripts-0.1.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bozo-scripts-0.1.8/lib" />
+      </SOURCES>
+    </library>
+    <library name="bozo-scripts (v0.10.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bozo-scripts-0.10.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bozo-scripts-0.10.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="bozo-scripts (v0.10.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bozo-scripts-0.10.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bozo-scripts-0.10.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="bozo-scripts (v0.10.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bozo-scripts-0.10.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bozo-scripts-0.10.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="bozo-scripts (v0.10.3, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bozo-scripts-0.10.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bozo-scripts-0.10.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="bozo-scripts (v0.10.5, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bozo-scripts-0.10.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bozo-scripts-0.10.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="bozo-scripts (v0.10.5@67d620, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/bundler/gems/bozo-scripts-67d6200510a2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/bundler/gems/bozo-scripts-67d6200510a2/lib" />
+      </SOURCES>
+    </library>
+    <library name="bozo-scripts (v0.10.6, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bozo-scripts-0.10.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bozo-scripts-0.10.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="bozo-scripts (v0.10.6@193236, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/bundler/gems/bozo-scripts-193236613a5d/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/bundler/gems/bozo-scripts-193236613a5d/lib" />
+      </SOURCES>
+    </library>
+    <library name="bozo-scripts (v0.11.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bozo-scripts-0.11.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bozo-scripts-0.11.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="bozo-scripts (v0.12.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bozo-scripts-0.12.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bozo-scripts-0.12.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="bozo-scripts (v0.15.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bozo-scripts-0.15.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bozo-scripts-0.15.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="bozo-scripts (v0.5.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bozo-scripts-0.5.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bozo-scripts-0.5.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="bozo-scripts (v0.7.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bozo-scripts-0.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bozo-scripts-0.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="bozo-scripts (v0.8.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bozo-scripts-0.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bozo-scripts-0.8.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="bozo-scripts (v0.9.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bozo-scripts-0.9.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bozo-scripts-0.9.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="broker_api (v0.1.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="browser_details (v0.0.4, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/browser_details-0.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/browser_details-0.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="builder (v3.0.4, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/builder-3.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/builder-3.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="builder (v3.2.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/builder-3.2.2/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/builder-3.2.2/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/builder-3.2.2/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/builder-3.2.2/rakelib" />
+      </SOURCES>
+    </library>
+    <library name="bundler (v1.10.6, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.10.6/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.10.6/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.10.6/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.10.6/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.10.6/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.10.6/man" />
+      </SOURCES>
+    </library>
+    <library name="bundler (v1.11.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.11.2/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.11.2/exe" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.11.2/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.11.2/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.11.2/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.11.2/exe" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.11.2/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.11.2/man" />
+      </SOURCES>
+    </library>
+    <library name="cane (v2.6.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/cane-2.6.2/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/cane-2.6.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/cane-2.6.2/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/cane-2.6.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="capistrano (v2.11.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/capistrano-2.11.2/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/capistrano-2.11.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/capistrano-2.11.2/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/capistrano-2.11.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="capistrano (v2.13.5, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/capistrano-2.13.5/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/capistrano-2.13.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/capistrano-2.13.5/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/capistrano-2.13.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="capistrano-ext (v1.2.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/capistrano-ext-1.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/capistrano-ext-1.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="childprocess (v0.5.6, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/childprocess-0.5.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/childprocess-0.5.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="chronic (v0.6.7, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/chronic-0.6.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/chronic-0.6.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="ci_reporter (v1.8.4, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/ci_reporter-1.8.4/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/ci_reporter-1.8.4/tasks" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/ci_reporter-1.8.4/acceptance" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/ci_reporter-1.8.4/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/ci_reporter-1.8.4/tasks" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/ci_reporter-1.8.4/acceptance" />
+      </SOURCES>
+    </library>
+    <library name="classifier-reborn (v2.0.3, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/classifier-reborn-2.0.3/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/classifier-reborn-2.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/classifier-reborn-2.0.3/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/classifier-reborn-2.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="code_analyzer (v0.4.5, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/code_analyzer-0.4.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/code_analyzer-0.4.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="code_metrics (v0.1.3, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/code_metrics-0.1.3/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/code_metrics-0.1.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/code_metrics-0.1.3/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/code_metrics-0.1.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="coderay (v1.0.8, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/coderay-1.0.8/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/coderay-1.0.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/coderay-1.0.8/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/coderay-1.0.8/lib" />
+      </SOURCES>
+    </library>
+    <library name="coffee-script (v2.2.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/coffee-script-2.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/coffee-script-2.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="coffee-script (v2.4.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/coffee-script-2.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/coffee-script-2.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="coffee-script-source (v1.4.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/coffee-script-source-1.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/coffee-script-source-1.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="coffee-script-source (v1.9.1.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/coffee-script-source-1.9.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/coffee-script-source-1.9.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="colorator (v0.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/colorator-0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/colorator-0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="colored (v1.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/colored-1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/colored-1.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="columnize (v0.3.6, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/columnize-0.3.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/columnize-0.3.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="columnize (v0.9.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/columnize-0.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/columnize-0.9.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="cucumber (v1.3.20, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.20/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.20/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.20/features" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.20/fixtures" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.20/gem_tasks" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.20/legacy_features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.20/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.20/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.20/features" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.20/fixtures" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.20/gem_tasks" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.20/legacy_features" />
+      </SOURCES>
+    </library>
+    <library name="daemons (v1.2.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/daemons-1.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/daemons-1.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="database_cleaner (v0.9.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/database_cleaner-0.9.1/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/database_cleaner-0.9.1/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/database_cleaner-0.9.1/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/database_cleaner-0.9.1/features" />
+      </SOURCES>
+    </library>
+    <library name="debugger-linecache (v1.2.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/debugger-linecache-1.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/debugger-linecache-1.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="diff-lcs (v1.1.3, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/diff-lcs-1.1.3/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/diff-lcs-1.1.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/diff-lcs-1.1.3/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/diff-lcs-1.1.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="diff-lcs (v1.2.5, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/diff-lcs-1.2.5/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/diff-lcs-1.2.5/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/diff-lcs-1.2.5/autotest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/diff-lcs-1.2.5/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/diff-lcs-1.2.5/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/diff-lcs-1.2.5/autotest" />
+      </SOURCES>
+    </library>
+    <library name="docile (v1.1.5, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/docile-1.1.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/docile-1.1.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="dynamic_form (v1.1.4, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/dynamic_form-1.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/dynamic_form-1.1.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="equalizer (v0.0.11, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/equalizer-0.0.11/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/equalizer-0.0.11/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/equalizer-0.0.11/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/equalizer-0.0.11/config" />
+      </SOURCES>
+    </library>
+    <library name="erubis (v2.7.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/erubis-2.7.0/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/erubis-2.7.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/erubis-2.7.0/contrib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/erubis-2.7.0/doc-api" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/erubis-2.7.0/benchmark" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/erubis-2.7.0/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/erubis-2.7.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/erubis-2.7.0/contrib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/erubis-2.7.0/doc-api" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/erubis-2.7.0/benchmark" />
+      </SOURCES>
+    </library>
+    <library name="ethon (v0.8.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/ethon-0.8.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/ethon-0.8.0/profile" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/ethon-0.8.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/ethon-0.8.0/profile" />
+      </SOURCES>
+    </library>
+    <library name="eventmachine (v1.0.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/eventmachine-1.0.0-x86-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/eventmachine-1.0.0-x86-mingw32/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/eventmachine-1.0.0-x86-mingw32/java" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/eventmachine-1.0.0-x86-mingw32/tests" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/eventmachine-1.0.0-x86-mingw32/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/eventmachine-1.0.0-x86-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/eventmachine-1.0.0-x86-mingw32/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/eventmachine-1.0.0-x86-mingw32/java" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/eventmachine-1.0.0-x86-mingw32/tests" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/eventmachine-1.0.0-x86-mingw32/rakelib" />
+      </SOURCES>
+    </library>
+    <library name="execjs (v1.4.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/execjs-1.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/execjs-1.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="execjs (v2.6.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/execjs-2.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/execjs-2.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="facter (v2.4.4, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/facter-2.4.4-x86-mingw32/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/facter-2.4.4-x86-mingw32/etc" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/facter-2.4.4-x86-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/facter-2.4.4-x86-mingw32/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/facter-2.4.4-x86-mingw32/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/facter-2.4.4-x86-mingw32/etc" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/facter-2.4.4-x86-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/facter-2.4.4-x86-mingw32/lib" />
+      </SOURCES>
+    </library>
+    <library name="factory_girl (v4.1.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/factory_girl-4.1.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/factory_girl-4.1.0/features" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/factory_girl-4.1.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/factory_girl-4.1.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/factory_girl-4.1.0/features" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/factory_girl-4.1.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="fakeweb (v1.3.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/fakeweb-1.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/fakeweb-1.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="faraday (v0.9.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/faraday-0.9.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/faraday-0.9.0/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/faraday-0.9.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/faraday-0.9.0/script" />
+      </SOURCES>
+    </library>
+    <library name="faraday (v0.9.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/faraday-0.9.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/faraday-0.9.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="fast-stemmer (v1.0.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/fast-stemmer-1.0.2/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/fast-stemmer-1.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/fast-stemmer-1.0.2/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/fast-stemmer-1.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="fattr (v2.2.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/fattr-2.2.2/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/fattr-2.2.2/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/fattr-2.2.2/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/fattr-2.2.2/samples" />
+      </SOURCES>
+    </library>
+    <library name="faye-websocket (v0.4.6, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/faye-websocket-0.4.6/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/faye-websocket-0.4.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/faye-websocket-0.4.6/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/faye-websocket-0.4.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="ffi (v1.9.10, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/ffi/1.9.10" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/ffi-1.9.10-x86-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/ffi-1.9.10-x86-mingw32/gen" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/ffi-1.9.10-x86-mingw32/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/ffi-1.9.10-x86-mingw32/libtest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/ffi/1.9.10" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/ffi-1.9.10-x86-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/ffi-1.9.10-x86-mingw32/gen" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/ffi-1.9.10-x86-mingw32/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/ffi-1.9.10-x86-mingw32/libtest" />
+      </SOURCES>
+    </library>
+    <library name="formatador (v0.2.5, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/formatador-0.2.5/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/formatador-0.2.5/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/formatador-0.2.5/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/formatador-0.2.5/tests" />
+      </SOURCES>
+    </library>
+    <library name="gemoji (v2.1.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/gemoji-2.1.0/db" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/gemoji-2.1.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/gemoji-2.1.0/images" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/gemoji-2.1.0/db" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/gemoji-2.1.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/gemoji-2.1.0/images" />
+      </SOURCES>
+    </library>
+    <library name="gherkin (v2.12.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/gherkin-2.12.2-x86-mingw32/js" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/gherkin-2.12.2-x86-mingw32/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/gherkin-2.12.2-x86-mingw32/ragel" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/gherkin-2.12.2-x86-mingw32/tasks" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/gherkin-2.12.2-x86-mingw32/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/gherkin-2.12.2-x86-mingw32/js" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/gherkin-2.12.2-x86-mingw32/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/gherkin-2.12.2-x86-mingw32/ragel" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/gherkin-2.12.2-x86-mingw32/tasks" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/gherkin-2.12.2-x86-mingw32/features" />
+      </SOURCES>
+    </library>
+    <library name="git-up (v0.5.12, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/git-up-0.5.12/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/git-up-0.5.12/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/git-up-0.5.12/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/git-up-0.5.12/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/git-up-0.5.12/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/git-up-0.5.12/man" />
+      </SOURCES>
+    </library>
+    <library name="gli (v1.6.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/gli-1.6.0/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/gli-1.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/gli-1.6.0/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/gli-1.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="grit (v2.5.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/grit-2.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/grit-2.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="haml (v3.1.7, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/haml-3.1.7/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/haml-3.1.7/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/haml-3.1.7/extra" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/haml-3.1.7/rails" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/haml-3.1.7/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/haml-3.1.7/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/haml-3.1.7/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/haml-3.1.7/extra" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/haml-3.1.7/rails" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/haml-3.1.7/vendor" />
+      </SOURCES>
+    </library>
+    <library name="hatchet (v0.2.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/hatchet-0.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/hatchet-0.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="hatchet-hipchat (v0.2.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/hatchet-hipchat-0.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/hatchet-hipchat-0.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="her (v0.7.3, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/her-0.7.3/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/her-0.7.3/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/her-0.7.3/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/her-0.7.3/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="hiera (v3.0.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/hiera-3.0.1-x86-mingw32/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/hiera-3.0.1-x86-mingw32/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/hiera-3.0.1-x86-mingw32/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/hiera-3.0.1-x86-mingw32/lib" />
+      </SOURCES>
+    </library>
+    <library name="highline (v1.6.15, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/highline-1.6.15/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/highline-1.6.15/site" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/highline-1.6.15/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/highline-1.6.15/site" />
+      </SOURCES>
+    </library>
+    <library name="highline (v1.6.19, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/highline-1.6.19/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/highline-1.6.19/site" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/highline-1.6.19/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/highline-1.6.19/site" />
+      </SOURCES>
+    </library>
+    <library name="highline (v1.6.21, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/highline-1.6.21/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/highline-1.6.21/site" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/highline-1.6.21/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/highline-1.6.21/site" />
+      </SOURCES>
+    </library>
+    <library name="hike (v1.2.3, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/hike-1.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/hike-1.2.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="hipchat-api (v1.0.6, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/hipchat-api-1.0.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/hipchat-api-1.0.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="hirb (v0.7.3, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/hirb-0.7.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/hirb-0.7.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="http_parser.rb (v0.5.3, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/http_parser.rb-0.5.3-x86-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/http_parser.rb-0.5.3-x86-mingw32/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/http_parser.rb-0.5.3-x86-mingw32/bench" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/http_parser.rb-0.5.3-x86-mingw32/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/http_parser.rb-0.5.3-x86-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/http_parser.rb-0.5.3-x86-mingw32/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/http_parser.rb-0.5.3-x86-mingw32/bench" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/http_parser.rb-0.5.3-x86-mingw32/tasks" />
+      </SOURCES>
+    </library>
+    <library name="httparty (v0.10.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/httparty-0.10.0/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/httparty-0.10.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/httparty-0.10.0/website" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/httparty-0.10.0/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/httparty-0.10.0/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/httparty-0.10.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/httparty-0.10.0/website" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/httparty-0.10.0/features" />
+      </SOURCES>
+    </library>
+    <library name="httparty (v0.13.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/httparty-0.13.0/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/httparty-0.13.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/httparty-0.13.0/script" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/httparty-0.13.0/website" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/httparty-0.13.0/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/httparty-0.13.0/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/httparty-0.13.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/httparty-0.13.0/script" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/httparty-0.13.0/website" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/httparty-0.13.0/features" />
+      </SOURCES>
+    </library>
+    <library name="i18n (v0.7.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/i18n-0.7.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/i18n-0.7.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/i18n-0.7.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/i18n-0.7.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="ice_nine (v0.11.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/ice_nine-0.11.1/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/ice_nine-0.11.1/config" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/ice_nine-0.11.1/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/ice_nine-0.11.1/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/ice_nine-0.11.1/config" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/ice_nine-0.11.1/benchmarks" />
+      </SOURCES>
+    </library>
+    <library name="iisconfig (v0.3.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/iisconfig-0.3.0/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/iisconfig-0.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/iisconfig-0.3.0/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/iisconfig-0.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="iisconfig (v0.4.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/iisconfig-0.4.0/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/iisconfig-0.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/iisconfig-0.4.0/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/iisconfig-0.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="iisconfig (v0.4.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/iisconfig-0.4.1/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/iisconfig-0.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/iisconfig-0.4.1/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/iisconfig-0.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="iisconfig (v0.5.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/iisconfig-0.5.0/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/iisconfig-0.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/iisconfig-0.5.0/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/iisconfig-0.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="inifile (v3.0.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/inifile-3.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/inifile-3.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="jasmine (v2.3.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/jasmine-2.3.0/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/jasmine-2.3.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/jasmine-2.3.0/release_notes" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/jasmine-2.3.0/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/jasmine-2.3.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/jasmine-2.3.0/release_notes" />
+      </SOURCES>
+    </library>
+    <library name="jasmine-core (v2.3.4, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/jasmine-core-2.3.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/jasmine-core-2.3.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="jbuilder (v2.4.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/jbuilder-2.4.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/jbuilder-2.4.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/jbuilder-2.4.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/jbuilder-2.4.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="journey (v1.0.4, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/journey-1.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/journey-1.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="jquery-rails (v3.1.4@51112e, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/bundler/gems/jquery-rails-51112e0061a8/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/bundler/gems/jquery-rails-51112e0061a8/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/bundler/gems/jquery-rails-51112e0061a8/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/bundler/gems/jquery-rails-51112e0061a8/vendor" />
+      </SOURCES>
+    </library>
+    <library name="json (v1.8.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/json/1.8.1" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.1/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.1/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.1/data" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.1/java" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.1/tests" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.1/tools" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.1/diagrams" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/json/1.8.1" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.1/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.1/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.1/data" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.1/java" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.1/tests" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.1/tools" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.1/diagrams" />
+      </SOURCES>
+    </library>
+    <library name="json (v1.8.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.2/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.2/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.2/data" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.2/java" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.2/tests" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.2/tools" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.2/diagrams" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.2/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.2/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.2/data" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.2/java" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.2/tests" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.2/tools" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.2/diagrams" />
+      </SOURCES>
+    </library>
+    <library name="json (v1.8.3, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.3/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.3/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.3/data" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.3/java" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.3/tests" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.3/tools" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.3/diagrams" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.3/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.3/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.3/data" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.3/java" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.3/tests" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.3/tools" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.3/diagrams" />
+      </SOURCES>
+    </library>
+    <library name="json-schema (v2.6.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-schema-2.6.2/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-schema-2.6.2/resources" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-schema-2.6.2/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-schema-2.6.2/resources" />
+      </SOURCES>
+    </library>
+    <library name="json_pure (v1.8.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json_pure-1.8.2/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json_pure-1.8.2/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json_pure-1.8.2/data" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json_pure-1.8.2/java" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json_pure-1.8.2/tests" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json_pure-1.8.2/tools" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json_pure-1.8.2/diagrams" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json_pure-1.8.2/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json_pure-1.8.2/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json_pure-1.8.2/data" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json_pure-1.8.2/java" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json_pure-1.8.2/tests" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json_pure-1.8.2/tools" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json_pure-1.8.2/diagrams" />
+      </SOURCES>
+    </library>
+    <library name="launchy (v2.1.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/launchy-2.1.2/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/launchy-2.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/launchy-2.1.2/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/launchy-2.1.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="librarian (v0.0.4, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/librarian-0.0.4/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/librarian-0.0.4/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/librarian-0.0.4/config" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/librarian-0.0.4/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/librarian-0.0.4/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/librarian-0.0.4/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/librarian-0.0.4/config" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/librarian-0.0.4/features" />
+      </SOURCES>
+    </library>
+    <library name="librarian (v0.1.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/librarian-0.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/librarian-0.1.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="librarian-puppet (v2.0.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/librarian-puppet-2.0.1/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/librarian-puppet-2.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/librarian-puppet-2.0.1/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/librarian-puppet-2.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="listen (v0.7.3, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/listen-0.7.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/listen-0.7.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="loofah (v2.0.3, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/loofah-2.0.3/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/loofah-2.0.3/benchmark" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/loofah-2.0.3/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/loofah-2.0.3/benchmark" />
+      </SOURCES>
+    </library>
+    <library name="lumberjack (v1.0.9, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/lumberjack-1.0.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/lumberjack-1.0.9/lib" />
+      </SOURCES>
+    </library>
+    <library name="mail (v2.5.4, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/mail-2.5.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/mail-2.5.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="main (v6.1.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/main-6.1.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/main-6.1.0/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/main-6.1.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/main-6.1.0/samples" />
+      </SOURCES>
+    </library>
+    <library name="map (v6.5.5, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/map-6.5.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/map-6.5.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="memoizable (v0.4.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/memoizable-0.4.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/memoizable-0.4.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="method_source (v0.8.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/method_source-0.8.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/method_source-0.8.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="metric_fu-Saikuro (v1.1.3, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/metric_fu-Saikuro-1.1.3/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/metric_fu-Saikuro-1.1.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/metric_fu-Saikuro-1.1.3/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/metric_fu-Saikuro-1.1.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="mime-types (v1.25.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/mime-types-1.25.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/mime-types-1.25.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="mini_portile2 (v2.0.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/mini_portile2-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/mini_portile2-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="mini_portile2 (v2.0.0.rc2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/mini_portile2-2.0.0.rc2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/mini_portile2-2.0.0.rc2/lib" />
+      </SOURCES>
+    </library>
+    <library name="mini_portile2 (v2.1.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/mini_portile2-2.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/mini_portile2-2.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="minitar (v0.5.4, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/minitar-0.5.4/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/minitar-0.5.4/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/minitar-0.5.4/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/minitar-0.5.4/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/minitar-0.5.4/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/minitar-0.5.4/tests" />
+      </SOURCES>
+    </library>
+    <library name="minitest (v5.5.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/minitest-5.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/minitest-5.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="minitest (v5.7.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/minitest-5.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/minitest-5.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="minitest (v5.8.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/minitest-5.8.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/minitest-5.8.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="minitest (v5.8.3, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/minitest-5.8.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/minitest-5.8.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="multi_json (v1.10.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/multi_json-1.10.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/multi_json-1.10.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="multi_json (v1.11.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/multi_json-1.11.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/multi_json-1.11.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="multi_test (v0.1.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/multi_test-0.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/multi_test-0.1.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="multi_xml (v0.5.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/multi_xml-0.5.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/multi_xml-0.5.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="multi_xml (v0.5.5, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/multi_xml-0.5.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/multi_xml-0.5.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="multipart-post (v2.0.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/multipart-post-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/multipart-post-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="net-dns (v0.8.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/net-dns-0.8.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/net-dns-0.8.0/demo" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/net-dns-0.8.0/fixtures" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/net-dns-0.8.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/net-dns-0.8.0/demo" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/net-dns-0.8.0/fixtures" />
+      </SOURCES>
+    </library>
+    <library name="net-scp (v1.0.4, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/net-scp-1.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/net-scp-1.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="net-scp (v1.1.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/net-scp-1.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/net-scp-1.1.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="net-sftp (v2.0.5, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/net-sftp-2.0.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/net-sftp-2.0.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="net-sftp (v2.1.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/net-sftp-2.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/net-sftp-2.1.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="net-ssh (v2.3.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/net-ssh-2.3.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/net-ssh-2.3.0/support" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/net-ssh-2.3.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/net-ssh-2.3.0/support" />
+      </SOURCES>
+    </library>
+    <library name="net-ssh (v2.6.8, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/net-ssh-2.6.8/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/net-ssh-2.6.8/support" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/net-ssh-2.6.8/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/net-ssh-2.6.8/support" />
+      </SOURCES>
+    </library>
+    <library name="net-ssh-gateway (v1.1.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/net-ssh-gateway-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/net-ssh-gateway-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="net-ssh-gateway (v1.2.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/net-ssh-gateway-1.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/net-ssh-gateway-1.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="newrelic_rpm (v3.9.0.229, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/newrelic_rpm-3.9.0.229/ui" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/newrelic_rpm-3.9.0.229/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/newrelic_rpm-3.9.0.229/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/newrelic_rpm-3.9.0.229/cert" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/newrelic_rpm-3.9.0.229/config" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/newrelic_rpm-3.9.0.229/vendor" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/newrelic_rpm-3.9.0.229/recipes" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/newrelic_rpm-3.9.0.229/ui" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/newrelic_rpm-3.9.0.229/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/newrelic_rpm-3.9.0.229/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/newrelic_rpm-3.9.0.229/cert" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/newrelic_rpm-3.9.0.229/config" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/newrelic_rpm-3.9.0.229/vendor" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/newrelic_rpm-3.9.0.229/recipes" />
+      </SOURCES>
+    </library>
+    <library name="nokogiri (v1.5.11, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.5.11-x86-mingw32/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.5.11-x86-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.5.11-x86-mingw32/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.5.11-x86-mingw32/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.5.11-x86-mingw32/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.5.11-x86-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.5.11-x86-mingw32/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.5.11-x86-mingw32/tasks" />
+      </SOURCES>
+    </library>
+    <library name="nokogiri (v1.5.6, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.5.6-x86-mingw32/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.5.6-x86-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.5.6-x86-mingw32/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.5.6-x86-mingw32/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.5.6-x86-mingw32/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.5.6-x86-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.5.6-x86-mingw32/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.5.6-x86-mingw32/tasks" />
+      </SOURCES>
+    </library>
+    <library name="nokogiri (v1.6.7.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/nokogiri/1.6.7.2" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.7.2-x86-mingw32/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.7.2-x86-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.7.2-x86-mingw32/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.7.2-x86-mingw32/tasks" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.7.2-x86-mingw32/patches" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.7.2-x86-mingw32/suppressions" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/nokogiri/1.6.7.2" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.7.2-x86-mingw32/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.7.2-x86-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.7.2-x86-mingw32/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.7.2-x86-mingw32/tasks" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.7.2-x86-mingw32/patches" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.7.2-x86-mingw32/suppressions" />
+      </SOURCES>
+    </library>
+    <library name="nokogiri (v1.6.8, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.8-x86-mingw32/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.8-x86-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.8-x86-mingw32/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.8-x86-mingw32/tasks" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.8-x86-mingw32/patches" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.8-x86-mingw32/suppressions" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.8-x86-mingw32/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.8-x86-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.8-x86-mingw32/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.8-x86-mingw32/tasks" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.8-x86-mingw32/patches" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.8-x86-mingw32/suppressions" />
+      </SOURCES>
+    </library>
+    <library name="octokit (v4.3.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/octokit-4.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/octokit-4.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="parallel (v1.6.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/parallel-1.6.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/parallel-1.6.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="parser (v2.2.2.6, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/parser-2.2.2.6/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/parser-2.2.2.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/parser-2.2.2.6/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/parser-2.2.2.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="pg (v0.14.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/pg-0.14.1-x86-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/pg-0.14.1-x86-mingw32/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/pg-0.14.1-x86-mingw32/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/pg-0.14.1-x86-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/pg-0.14.1-x86-mingw32/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/pg-0.14.1-x86-mingw32/sample" />
+      </SOURCES>
+    </library>
+    <library name="phantomjs (v1.9.8.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/phantomjs-1.9.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/phantomjs-1.9.8.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="phonelib (v0.4.7, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/phonelib-0.4.7/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/phonelib-0.4.7/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/phonelib-0.4.7/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/phonelib-0.4.7/data" />
+      </SOURCES>
+    </library>
+    <library name="pkg-config (v1.1.7, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/pkg-config-1.1.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/pkg-config-1.1.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="polyglot (v0.3.5, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/polyglot-0.3.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/polyglot-0.3.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="posix-spawn (v0.3.11, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/posix-spawn-0.3.11/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/posix-spawn-0.3.11/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/posix-spawn-0.3.11/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/posix-spawn-0.3.11/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/posix-spawn-0.3.11/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/posix-spawn-0.3.11/lib" />
+      </SOURCES>
+    </library>
+    <library name="postmark (v0.9.13, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/postmark-0.9.13/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/postmark-0.9.13/lib" />
+      </SOURCES>
+    </library>
+    <library name="postmark (v1.3.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/postmark-1.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/postmark-1.3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="procto (v0.0.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/procto-0.0.2/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/procto-0.0.2/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/procto-0.0.2/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/procto-0.0.2/config" />
+      </SOURCES>
+    </library>
+    <library name="pry (v0.9.10, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/pry-0.9.10-x86-mingw32/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/pry-0.9.10-x86-mingw32/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/pry-0.9.10-x86-mingw32/man" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/pry-0.9.10-x86-mingw32/wiki" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/pry-0.9.10-x86-mingw32/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/pry-0.9.10-x86-mingw32/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/pry-0.9.10-x86-mingw32/man" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/pry-0.9.10-x86-mingw32/wiki" />
+      </SOURCES>
+    </library>
+    <library name="puppet_forge (v1.0.4, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/puppet_forge-1.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/puppet_forge-1.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack (v1.4.7, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rack-1.4.7/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rack-1.4.7/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rack-1.4.7/contrib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rack-1.4.7/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rack-1.4.7/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rack-1.4.7/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rack-1.4.7/contrib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rack-1.4.7/example" />
+      </SOURCES>
+    </library>
+    <library name="rack (v1.5.5, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rack-1.5.5/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rack-1.5.5/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rack-1.5.5/contrib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rack-1.5.5/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rack-1.5.5/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rack-1.5.5/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rack-1.5.5/contrib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rack-1.5.5/example" />
+      </SOURCES>
+    </library>
+    <library name="rack-cache (v1.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rack-cache-1.2/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rack-cache-1.2/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rack-cache-1.2/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rack-cache-1.2/example" />
+      </SOURCES>
+    </library>
+    <library name="rack-protection (v1.2.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rack-protection-1.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rack-protection-1.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-ssl (v1.3.4, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rack-ssl-1.3.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rack-ssl-1.3.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-test (v0.6.3, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rack-test-0.6.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rack-test-0.6.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails-deprecated_sanitizer (v1.0.3, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rails-deprecated_sanitizer-1.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rails-deprecated_sanitizer-1.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails-dom-testing (v1.0.7, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rails-dom-testing-1.0.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rails-dom-testing-1.0.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails-html-sanitizer (v1.0.3, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rails-html-sanitizer-1.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rails-html-sanitizer-1.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails_config (v0.2.7, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rails_config-0.2.7/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rails_config-0.2.7/.bundle" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rails_config-0.2.7/autotest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rails_config-0.2.7/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rails_config-0.2.7/.bundle" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rails_config-0.2.7/autotest" />
+      </SOURCES>
+    </library>
+    <library name="rainbow (v2.0.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rainbow-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rainbow-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rake (v0.9.2.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rake-0.9.2.2/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rake-0.9.2.2/bin" />
+      </SOURCES>
+    </library>
+    <library name="rake (v10.1.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rake-10.1.1/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rake-10.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rake-10.1.1/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rake-10.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rake (v10.3.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rake-10.3.2/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rake-10.3.2/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rake-10.3.2/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rake-10.3.2/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rake-10.3.2/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rake-10.3.2/rakelib" />
+      </SOURCES>
+    </library>
+    <library name="rake (v10.4.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rake-10.4.2/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rake-10.4.2/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rake-10.4.2/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rake-10.4.2/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rake-10.4.2/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rake-10.4.2/rakelib" />
+      </SOURCES>
+    </library>
+    <library name="rake (v11.1.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rake-11.1.2/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rake-11.1.2/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rake-11.1.2/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rake-11.1.2/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rake-11.1.2/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rake-11.1.2/rakelib" />
+      </SOURCES>
+    </library>
+    <library name="rb-fsevent (v0.9.6, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rb-fsevent-0.9.6/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rb-fsevent-0.9.6/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rb-fsevent-0.9.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rb-fsevent-0.9.6/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rb-fsevent-0.9.6/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rb-fsevent-0.9.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="rdoc (v3.12.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rdoc-3.12.2/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rdoc-3.12.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rdoc-3.12.2/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rdoc-3.12.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rdoc (v3.9.5, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rdoc-3.9.5/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rdoc-3.9.5/bin" />
+      </SOURCES>
+    </library>
+    <library name="redcard (v1.1.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/redcard-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/redcard-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="RedCloth (v4.2.9, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/RedCloth-4.2.9-x86-mingw32/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/RedCloth-4.2.9-x86-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/RedCloth-4.2.9-x86-mingw32/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/RedCloth-4.2.9-x86-mingw32/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/RedCloth-4.2.9-x86-mingw32/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/RedCloth-4.2.9-x86-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/RedCloth-4.2.9-x86-mingw32/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/RedCloth-4.2.9-x86-mingw32/tasks" />
+      </SOURCES>
+    </library>
+    <library name="request_store (v1.0.5, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/request_store-1.0.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/request_store-1.0.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="require_all (v1.3.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/require_all-1.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/require_all-1.3.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rest-client (v1.6.7, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rest-client-1.6.7/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rest-client-1.6.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rest-client-1.6.7/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rest-client-1.6.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="restclient-cache (v0.1.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/restclient-cache-0.1.1/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/restclient-cache-0.1.1/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/restclient-cache-0.1.1/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/restclient-cache-0.1.1/script" />
+      </SOURCES>
+    </library>
+    <library name="rspec (v3.4.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-3.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-3.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-core (v2.11.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-core-2.11.1/exe" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-core-2.11.1/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-core-2.11.1/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-core-2.11.1/exe" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-core-2.11.1/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-core-2.11.1/features" />
+      </SOURCES>
+    </library>
+    <library name="rspec-core (v3.4.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-core-3.4.1/exe" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-core-3.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-core-3.4.1/exe" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-core-3.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-expectations (v2.11.3, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-expectations-2.11.3/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-expectations-2.11.3/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-expectations-2.11.3/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-expectations-2.11.3/features" />
+      </SOURCES>
+    </library>
+    <library name="rspec-expectations (v3.4.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-expectations-3.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-expectations-3.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-mocks (v2.11.3, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-mocks-2.11.3/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-mocks-2.11.3/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-mocks-2.11.3/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-mocks-2.11.3/features" />
+      </SOURCES>
+    </library>
+    <library name="rspec-mocks (v3.4.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-mocks-3.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-mocks-3.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-support (v3.4.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-support-3.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-support-3.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rsync (v1.0.9, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rsync-1.0.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rsync-1.0.9/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-progressbar (v1.7.5, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/ruby-progressbar-1.7.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/ruby-progressbar-1.7.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby_deep_clone (v0.6.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/ruby_deep_clone-0.6.0/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/ruby_deep_clone-0.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/ruby_deep_clone-0.6.0/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/ruby_deep_clone-0.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby_parser (v3.7.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/ruby_parser-3.7.1/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/ruby_parser-3.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/ruby_parser-3.7.1/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/ruby_parser-3.7.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rubygems-update (v2.6.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rubygems-update-2.6.2/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rubygems-update-2.6.2/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rubygems-update-2.6.2/util" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rubygems-update-2.6.2/hide_lib_for_update" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rubygems-update-2.6.2/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rubygems-update-2.6.2/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rubygems-update-2.6.2/util" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rubygems-update-2.6.2/hide_lib_for_update" />
+      </SOURCES>
+    </library>
+    <library name="rubyzip (v0.9.9, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rubyzip-0.9.9/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rubyzip-0.9.9/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rubyzip-0.9.9/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rubyzip-0.9.9/samples" />
+      </SOURCES>
+    </library>
+    <library name="rubyzip (v1.1.7, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rubyzip-1.1.7/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rubyzip-1.1.7/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rubyzip-1.1.7/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rubyzip-1.1.7/samples" />
+      </SOURCES>
+    </library>
+    <library name="rvm-capistrano (v1.4.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rvm-capistrano-1.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rvm-capistrano-1.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="sass (v3.3.0.alpha.3, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/sass-3.3.0.alpha.3/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/sass-3.3.0.alpha.3/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/sass-3.3.0.alpha.3/extra" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/sass-3.3.0.alpha.3/rails" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/sass-3.3.0.alpha.3/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/sass-3.3.0.alpha.3/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/sass-3.3.0.alpha.3/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/sass-3.3.0.alpha.3/extra" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/sass-3.3.0.alpha.3/rails" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/sass-3.3.0.alpha.3/vendor" />
+      </SOURCES>
+    </library>
+    <library name="sass (v3.4.10, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/sass-3.4.10/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/sass-3.4.10/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/sass-3.4.10/extra" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/sass-3.4.10/rails" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/sass-3.4.10/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/sass-3.4.10/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/sass-3.4.10/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/sass-3.4.10/extra" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/sass-3.4.10/rails" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/sass-3.4.10/vendor" />
+      </SOURCES>
+    </library>
+    <library name="sawyer (v0.7.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/sawyer-0.7.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/sawyer-0.7.0/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/sawyer-0.7.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/sawyer-0.7.0/script" />
+      </SOURCES>
+    </library>
+    <library name="sexp_processor (v4.6.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/sexp_processor-4.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/sexp_processor-4.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="shoulda-matchers (v2.8.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/shoulda-matchers-2.8.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/shoulda-matchers-2.8.0/tasks" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/shoulda-matchers-2.8.0/script" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/shoulda-matchers-2.8.0/gemfiles" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/shoulda-matchers-2.8.0/doc_config" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/shoulda-matchers-2.8.0/.hound_config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/shoulda-matchers-2.8.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/shoulda-matchers-2.8.0/tasks" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/shoulda-matchers-2.8.0/script" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/shoulda-matchers-2.8.0/gemfiles" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/shoulda-matchers-2.8.0/doc_config" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/shoulda-matchers-2.8.0/.hound_config" />
+      </SOURCES>
+    </library>
+    <library name="simple-navigation (v3.7.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/simple-navigation-3.7.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/simple-navigation-3.7.0/rails" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/simple-navigation-3.7.0/generators" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/simple-navigation-3.7.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/simple-navigation-3.7.0/rails" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/simple-navigation-3.7.0/generators" />
+      </SOURCES>
+    </library>
+    <library name="simplecov (v0.10.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/simplecov-0.10.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/simplecov-0.10.0/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/simplecov-0.10.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/simplecov-0.10.0/features" />
+      </SOURCES>
+    </library>
+    <library name="simplecov-html (v0.10.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/simplecov-html-0.10.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/simplecov-html-0.10.0/views" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/simplecov-html-0.10.0/assets" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/simplecov-html-0.10.0/public" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/simplecov-html-0.10.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/simplecov-html-0.10.0/views" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/simplecov-html-0.10.0/assets" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/simplecov-html-0.10.0/public" />
+      </SOURCES>
+    </library>
+    <library name="sinatra (v1.3.3, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/sinatra-1.3.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/sinatra-1.3.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="slop (v3.3.3, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/slop-3.3.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/slop-3.3.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="spin (v0.5.3, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/spin-0.5.3/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/spin-0.5.3/bin" />
+      </SOURCES>
+    </library>
+    <library name="spork (v0.9.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/spork-0.9.2/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/spork-0.9.2/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/spork-0.9.2/assets" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/spork-0.9.2/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/spork-0.9.2/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/spork-0.9.2/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/spork-0.9.2/assets" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/spork-0.9.2/features" />
+      </SOURCES>
+    </library>
+    <library name="sprockets (v2.2.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/sprockets-2.2.2/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/sprockets-2.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/sprockets-2.2.2/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/sprockets-2.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="stripe (v1.36.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/stripe-1.36.0/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/stripe-1.36.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/stripe-1.36.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/stripe-1.36.0/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/stripe-1.36.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/stripe-1.36.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="stub [puppet module]">
       <CLASSES>
         <root url="file://$APPLICATION_HOME_DIR$/plugins/puppet/lib/stubs" />
       </CLASSES>
       <SOURCES />
+    </library>
+    <library name="test-unit (v2.4.9, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/test-unit-2.4.9/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/test-unit-2.4.9/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/test-unit-2.4.9/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/test-unit-2.4.9/sample" />
+      </SOURCES>
+    </library>
+    <library name="thin (v1.6.3, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/thin-1.6.3/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/thin-1.6.3/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/thin-1.6.3/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/thin-1.6.3/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/thin-1.6.3/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/thin-1.6.3/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/thin-1.6.3/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/thin-1.6.3/example" />
+      </SOURCES>
+    </library>
+    <library name="thor (v0.15.4, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/thor-0.15.4/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/thor-0.15.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/thor-0.15.4/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/thor-0.15.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="thor (v0.19.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/thor-0.19.1/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/thor-0.19.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/thor-0.19.1/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/thor-0.19.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="thread_safe (v0.3.4, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/thread_safe-0.3.4/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/thread_safe-0.3.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/thread_safe-0.3.4/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/thread_safe-0.3.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="thread_safe (v0.3.5, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/thread_safe-0.3.5/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/thread_safe-0.3.5/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/thread_safe-0.3.5/tasks" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/thread_safe-0.3.5/yard-template" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/thread_safe-0.3.5/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/thread_safe-0.3.5/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/thread_safe-0.3.5/tasks" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/thread_safe-0.3.5/yard-template" />
+      </SOURCES>
+    </library>
+    <library name="tilt (v1.4.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/tilt-1.4.1/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/tilt-1.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/tilt-1.4.1/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/tilt-1.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="treetop (v1.4.15, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/treetop-1.4.15/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/treetop-1.4.15/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/treetop-1.4.15/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/treetop-1.4.15/lib" />
+      </SOURCES>
+    </library>
+    <library name="truthy (v0.1.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/truthy-0.1.1/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/truthy-0.1.1/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/truthy-0.1.1/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/truthy-0.1.1/script" />
+      </SOURCES>
+    </library>
+    <library name="tzinfo (v0.3.39, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/tzinfo-0.3.39/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/tzinfo-0.3.39/lib" />
+      </SOURCES>
+    </library>
+    <library name="tzinfo (v1.2.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/tzinfo-1.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/tzinfo-1.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="uglifier (v1.3.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/uglifier-1.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/uglifier-1.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="useragent (v0.4.16, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/useragent-0.4.16/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/useragent-0.4.16/lib" />
+      </SOURCES>
+    </library>
+    <library name="vcr (v2.2.5, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/vcr-2.2.5/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/vcr-2.2.5/script" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/vcr-2.2.5/features" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/vcr-2.2.5/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/vcr-2.2.5/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/vcr-2.2.5/script" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/vcr-2.2.5/features" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/vcr-2.2.5/benchmarks" />
+      </SOURCES>
+    </library>
+    <library name="websocket (v1.2.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/websocket-1.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/websocket-1.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="whenever (v0.7.3, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/whenever-0.7.3/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/whenever-0.7.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/whenever-0.7.3/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/whenever-0.7.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="wicked_pdf (v1.0.4, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/wicked_pdf-1.0.4/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/wicked_pdf-1.0.4/gemfiles" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/wicked_pdf-1.0.4/generators" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/wicked_pdf-1.0.4/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/wicked_pdf-1.0.4/gemfiles" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/wicked_pdf-1.0.4/generators" />
+      </SOURCES>
+    </library>
+    <library name="win32-api (v1.4.8, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/win32-api/1.4.8" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-api-1.4.8-x86-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-api-1.4.8-x86-mingw32/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/win32-api/1.4.8" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-api-1.4.8-x86-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-api-1.4.8-x86-mingw32/lib" />
+      </SOURCES>
+    </library>
+    <library name="win32-api (v1.5.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-api-1.5.2-universal-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-api-1.5.2-universal-mingw32/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-api-1.5.2-universal-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-api-1.5.2-universal-mingw32/lib" />
+      </SOURCES>
+    </library>
+    <library name="win32-api (v1.5.3, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-api-1.5.3-universal-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-api-1.5.3-universal-mingw32/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-api-1.5.3-universal-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-api-1.5.3-universal-mingw32/lib" />
+      </SOURCES>
+    </library>
+    <library name="win32-api (v1.6.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-api-1.6.0-universal-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-api-1.6.0-universal-mingw32/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-api-1.6.0-universal-mingw32/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-api-1.6.0-universal-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-api-1.6.0-universal-mingw32/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-api-1.6.0-universal-mingw32/vendor" />
+      </SOURCES>
+    </library>
+    <library name="win32-dir (v0.4.9, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-dir-0.4.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-dir-0.4.9/lib" />
+      </SOURCES>
+    </library>
+    <library name="win32-eventlog (v0.6.3, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-eventlog-0.6.3/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-eventlog-0.6.3/misc" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-eventlog-0.6.3/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-eventlog-0.6.3/misc" />
+      </SOURCES>
+    </library>
+    <library name="win32-process (v0.7.5, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-process-0.7.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-process-0.7.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="win32-security (v0.2.5, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-security-0.2.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-security-0.2.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="win32-service (v0.7.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-service-0.7.2-x86-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-service-0.7.2-x86-mingw32/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-service-0.7.2-x86-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-service-0.7.2-x86-mingw32/lib" />
+      </SOURCES>
+    </library>
+    <library name="win32-service (v0.8.7, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-service-0.8.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-service-0.8.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="win32console (v1.3.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/win32console/1.3.0" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32console-1.3.0-x86-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32console-1.3.0-x86-mingw32/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32console-1.3.0-x86-mingw32/extra" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32console-1.3.0-x86-mingw32/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/win32console/1.3.0" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32console-1.3.0-x86-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32console-1.3.0-x86-mingw32/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32console-1.3.0-x86-mingw32/extra" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32console-1.3.0-x86-mingw32/tasks" />
+      </SOURCES>
+    </library>
+    <library name="win32console (v1.3.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32console-1.3.2-x86-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32console-1.3.2-x86-mingw32/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32console-1.3.2-x86-mingw32/extra" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32console-1.3.2-x86-mingw32/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32console-1.3.2-x86-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32console-1.3.2-x86-mingw32/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32console-1.3.2-x86-mingw32/extra" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32console-1.3.2-x86-mingw32/tasks" />
+      </SOURCES>
+    </library>
+    <library name="windows-api (v0.4.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/windows-api-0.4.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/windows-api-0.4.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="windows-api (v0.4.3, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/windows-api-0.4.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/windows-api-0.4.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="windows-api (v0.4.4, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/windows-api-0.4.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/windows-api-0.4.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="windows-pr (v1.2.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/windows-pr-1.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/windows-pr-1.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="windows-pr (v1.2.4, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/windows-pr-1.2.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/windows-pr-1.2.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="windows-pr (v1.2.5, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/windows-pr-1.2.5/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/windows-pr-1.2.5/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/windows-pr-1.2.5/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/windows-pr-1.2.5/vendor" />
+      </SOURCES>
+    </library>
+    <library name="wkhtmltopdf-binary (v0.9.9.3, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/wkhtmltopdf-binary-0.9.9.3/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/wkhtmltopdf-binary-0.9.9.3/bin" />
+      </SOURCES>
+    </library>
+    <library name="xpath (v0.1.4, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/xpath-0.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/xpath-0.1.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="zip (v2.0.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/zip-2.0.2/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/zip-2.0.2/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/zip-2.0.2/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/zip-2.0.2/samples" />
+      </SOURCES>
+    </library>
+    <library name="zopa-contracts (v0.1.11, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/zopa-contracts-0.1.11/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/zopa-contracts-0.1.11/script" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/zopa-contracts-0.1.11/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/zopa-contracts-0.1.11/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/zopa-contracts-0.1.11/script" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/zopa-contracts-0.1.11/example" />
+      </SOURCES>
     </library>
   </component>
 </application>
