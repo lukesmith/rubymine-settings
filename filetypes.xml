@@ -12,6 +12,7 @@
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="iis" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="ctmpl" type="PLAIN_TEXT" />
       <mapping ext="ps1" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
     </extensionMap>
