@@ -10,6 +10,7 @@
       <mapping pattern="user-data" type="PLAIN_TEXT" />
       <mapping pattern="pypirc" type="PLAIN_TEXT" />
       <mapping pattern="hipchat_room_message" type="PLAIN_TEXT" />
+      <mapping pattern="user-data-kafka" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="iis" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
