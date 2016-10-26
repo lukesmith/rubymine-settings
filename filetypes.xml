@@ -6,6 +6,7 @@
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="deployer-profile" type="PLAIN_TEXT" />
       <mapping pattern="user-data" type="PLAIN_TEXT" />
       <mapping pattern="pypirc" type="PLAIN_TEXT" />
