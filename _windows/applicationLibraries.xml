@@ -1746,6 +1746,7 @@
     </library>
     <library name="nokogiri (v1.6.8.1, ruby-1.9.3-p551) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/nokogiri/1.6.8.1" />
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.8.1-x86-mingw32/bin" />
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.8.1-x86-mingw32/ext" />
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.8.1-x86-mingw32/lib" />
@@ -1754,6 +1755,7 @@
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.8.1-x86-mingw32/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/nokogiri/1.6.8.1" />
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.8.1-x86-mingw32/bin" />
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.8.1-x86-mingw32/ext" />
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.8.1-x86-mingw32/lib" />
