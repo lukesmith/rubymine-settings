@@ -12,6 +12,8 @@
       <mapping pattern="deployer-profile" type="PLAIN_TEXT" />
       <mapping pattern="user-data" type="PLAIN_TEXT" />
       <mapping pattern="pypirc" type="PLAIN_TEXT" />
+      <mapping pattern=".zopa" type="PLAIN_TEXT" />
+      <mapping pattern=".rspec" type="PLAIN_TEXT" />
       <mapping pattern="hipchat_room_message" type="PLAIN_TEXT" />
       <mapping pattern="user-data-kafka" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
