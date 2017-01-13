@@ -1286,6 +1286,7 @@
     </library>
     <library name="json (v1.8.3, ruby-1.9.3-p551) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/json/1.8.3" />
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.3/ext" />
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.3/lib" />
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.3/data" />
@@ -1295,6 +1296,7 @@
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.3/diagrams" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/json/1.8.3" />
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.3/ext" />
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.3/lib" />
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.3/data" />
@@ -1728,6 +1730,7 @@
     </library>
     <library name="nokogiri (v1.6.8, ruby-1.9.3-p551) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/nokogiri/1.6.8" />
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.8-x86-mingw32/bin" />
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.8-x86-mingw32/ext" />
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.8-x86-mingw32/lib" />
@@ -1736,6 +1739,7 @@
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.8-x86-mingw32/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/nokogiri/1.6.8" />
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.8-x86-mingw32/bin" />
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.8-x86-mingw32/ext" />
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.8-x86-mingw32/lib" />
@@ -1812,10 +1816,12 @@
     </library>
     <library name="phonelib (v0.4.7, ruby-1.9.3-p551) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/phonelib/0.4.7" />
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/phonelib-0.4.7/lib" />
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/phonelib-0.4.7/data" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/phonelib/0.4.7" />
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/phonelib-0.4.7/lib" />
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/phonelib-0.4.7/data" />
       </SOURCES>
