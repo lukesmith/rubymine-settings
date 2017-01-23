@@ -2872,5 +2872,13 @@
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/zopa-contracts-0.1.11/example" />
       </SOURCES>
     </library>
+    <library name="zopa_hatchet_formatter (v0.0.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/zopa_hatchet_formatter-0.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/zopa_hatchet_formatter-0.0.2/lib" />
+      </SOURCES>
+    </library>
   </component>
 </application>
