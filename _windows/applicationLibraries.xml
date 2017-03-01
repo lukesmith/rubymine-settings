@@ -742,6 +742,16 @@
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/diplomat-1.2.0/features" />
       </SOURCES>
     </library>
+    <library name="diplomat (v1.3.0@dd4eb1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/bundler/gems/diplomat-dd4eb143e598/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/bundler/gems/diplomat-dd4eb143e598/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/bundler/gems/diplomat-dd4eb143e598/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/bundler/gems/diplomat-dd4eb143e598/features" />
+      </SOURCES>
+    </library>
     <library name="docile (v1.1.5, ruby-1.9.3-p551) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/docile-1.1.5/lib" />
@@ -1332,6 +1342,7 @@
     </library>
     <library name="json (v1.8.6, ruby-1.9.3-p551) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/json/1.8.6" />
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.6/ext" />
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.6/lib" />
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.6/data" />
@@ -1341,6 +1352,7 @@
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.6/diagrams" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/json/1.8.6" />
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.6/ext" />
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.6/lib" />
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.6/data" />
