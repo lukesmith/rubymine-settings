@@ -922,6 +922,16 @@
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/bundler/gems/diplomat-dd4eb143e598/features" />
       </SOURCES>
     </library>
+    <library name="diplomat (v2.0.1, ruby-2.2.4-p230) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/diplomat-2.0.1/lib" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/diplomat-2.0.1/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/diplomat-2.0.1/lib" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/diplomat-2.0.1/features" />
+      </SOURCES>
+    </library>
     <library name="docile (v1.1.5, ruby-1.9.3-p551) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/docile-1.1.5/lib" />
@@ -1086,6 +1096,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/faraday-0.12.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="faraday (v0.13.0, ruby-2.2.4-p230) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/faraday-0.13.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/faraday-0.13.0/lib" />
       </SOURCES>
     </library>
     <library name="faraday (v0.9.0, ruby-1.9.3-p551) [gem]">
@@ -2682,6 +2700,18 @@
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rake-10.3.2/bin" />
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rake-10.3.2/lib" />
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rake-10.3.2/rakelib" />
+      </SOURCES>
+    </library>
+    <library name="rake (v10.3.2, ruby-2.2.4-p230) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/rake-10.3.2/bin" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/rake-10.3.2/lib" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/rake-10.3.2/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/rake-10.3.2/bin" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/rake-10.3.2/lib" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/rake-10.3.2/rakelib" />
       </SOURCES>
     </library>
     <library name="rake (v10.4.2, ruby-1.9.3-p551) [gem]">
