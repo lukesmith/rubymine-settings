@@ -972,6 +972,16 @@
         <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dozo-2.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="dozo (v2.2.0, ruby-2.2.4-p230) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dozo-2.2.0/bin" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dozo-2.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dozo-2.2.0/bin" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dozo-2.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="dynamic_form (v1.1.4, ruby-1.9.3-p551) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/dynamic_form-1.1.4/lib" />
