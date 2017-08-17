@@ -940,38 +940,6 @@
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/docile-1.1.5/lib" />
       </SOURCES>
     </library>
-    <library name="dozo (v2.0.0.pref80a66aa, ruby-2.2.4-p230) [gem]">
-      <CLASSES>
-        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dozo-2.0.0.pref80a66aa/bin" />
-        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dozo-2.0.0.pref80a66aa/lib" />
-        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dozo-2.0.0.pref80a66aa/scripts" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dozo-2.0.0.pref80a66aa/bin" />
-        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dozo-2.0.0.pref80a66aa/lib" />
-        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dozo-2.0.0.pref80a66aa/scripts" />
-      </SOURCES>
-    </library>
-    <library name="dozo (v2.0.1.pre144c99d0, ruby-2.2.4-p230) [gem]">
-      <CLASSES>
-        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dozo-2.0.1.pre144c99d0/bin" />
-        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dozo-2.0.1.pre144c99d0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dozo-2.0.1.pre144c99d0/bin" />
-        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dozo-2.0.1.pre144c99d0/lib" />
-      </SOURCES>
-    </library>
-    <library name="dozo (v2.1.0, ruby-2.2.4-p230) [gem]">
-      <CLASSES>
-        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dozo-2.1.0/bin" />
-        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dozo-2.1.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dozo-2.1.0/bin" />
-        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dozo-2.1.0/lib" />
-      </SOURCES>
-    </library>
     <library name="dozo (v2.2.0, ruby-2.2.4-p230) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dozo-2.2.0/bin" />
@@ -2304,6 +2272,24 @@
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.5.6-x86-mingw32/ext" />
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.5.6-x86-mingw32/lib" />
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.5.6-x86-mingw32/tasks" />
+      </SOURCES>
+    </library>
+    <library name="nokogiri (v1.6.7, ruby-2.2.4-p230) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7-x86-mingw32/bin" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7-x86-mingw32/ext" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7-x86-mingw32/lib" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7-x86-mingw32/tasks" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7-x86-mingw32/patches" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7-x86-mingw32/suppressions" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7-x86-mingw32/bin" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7-x86-mingw32/ext" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7-x86-mingw32/lib" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7-x86-mingw32/tasks" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7-x86-mingw32/patches" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7-x86-mingw32/suppressions" />
       </SOURCES>
     </library>
     <library name="nokogiri (v1.6.7.2, ruby-1.9.3-p551) [gem]">
