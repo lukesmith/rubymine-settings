@@ -434,6 +434,14 @@
         <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/bozo-scripts-0.18.4/lib" />
       </SOURCES>
     </library>
+    <library name="bozo-scripts (v0.18.5, ruby-2.2.4-p230) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/bozo-scripts-0.18.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/bozo-scripts-0.18.5/lib" />
+      </SOURCES>
+    </library>
     <library name="bozo-scripts (v0.5.1, ruby-1.9.3-p551) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bozo-scripts-0.5.1/lib" />
